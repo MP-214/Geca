@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/chem"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Automobile engineering\n\n\n
+Chemical Engineering deals with the design, development of processes and operation of machines and plants through which the physical or chemical state of materials undergo various changes. Founded on the principles relating to chemistry, physics, and mathematics, Chemical Engineering finds application in process industries. BE/B.Tech in Chemical Engineering is a 4-year program.\n
+Developments in chemical practices have led to more advanced fields like Nanotechnology, Bio-Engineering, Bio-Molecular Engineering, Material processing etc. It finds global application in everyday life. Modern innovations like human genome project, genetic engineering, and DNA sequencing has changed the face how chemical engineering was earlier perceived. One can do an M.Tech in Chemical Engineering after BE/B.Tech."/>
+
+</android.support.constraint.ConstraintLayout>

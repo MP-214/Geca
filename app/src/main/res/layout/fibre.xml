@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/fibre"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Fibre and Textile engineering\n\n\n
+B.Tech in Fibres and Textile Processing Technology is a 4- year under graduate course focussing on specialisation in Fibres colour and garment industry, on the laws and principles for different techniques which are utilized for further development and manufacture of all types of yarn and Fibres etc. The basic eligibility for the course is a 10+2 qualification with a minimum aggregate score of 50% in Chemistry, Mathematics and Biology.\n\n
+Students are exposed to the interaction of material machine, natural and man-made materials, energy conservation, pollution, waste control, safety and health.Textile engineering deals with both textile and physical principles related to engineering and scientific methods which are used for creating and manufacturing textile and Fibres. It also includes merchandising and also improving existing textile Fibres and technology.\n\n
+B.Tech in Fibres and Textile Processing Technology: Who Should Opt? Students willing to pursue the course with the specialization of textile engineering should be good at Mathematics, Chemistry and Biology with analytical thinking and creative mind. As the course requires specialization in many subjects, students are supposed to be open to a multi-disciplinary curriculum which can include more than one field of study."></TextView>
+</android.support.constraint.ConstraintLayout>

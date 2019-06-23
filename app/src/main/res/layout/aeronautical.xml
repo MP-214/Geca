@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/aero"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Aeronautical engineering\n\n\n
+ Aeronautical engineering is the specialized branch of engineering for the aviation industry. It involves studying, designing, construction and science of the airplanes and other spacecraft. This branch uses the science of propulsion and aerodynamics. In order to be a successful Aeronautics engineer, you must be alert, have an eye for detail and a high level of mathematical precision for success.\n\nThe development and manufacturing of a flight vehicle is extremely complex, and demands a careful balance and compromise between abilities, design, available technology and costs.This branch mainly deals with the technology, business and other aspects related to aircraft. One of the significant parts in aeronautical engineering is a branch of physical science called aerodynamics. It deals with motion of air and the way in which it interacts with objects in motion, such as an aircraft."/>
+</android.support.constraint.ConstraintLayout>

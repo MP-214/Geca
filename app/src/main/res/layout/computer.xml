@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/comp"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Computer Science and engineering\n\n\n
+Computer science engineering (CSE) is one of the popular courses among engineering aspirants which focuses on the basic elements of computer programming and networking. Students pursuing computer science courses will gain knowledge of design, implementation and management of information system of both hardware and software. Going by the name, CSE course deals primarily with the theory of computation and design of computational systems.\n\n
+Computer Science Engineering (CSE) encompasses a variety of topics that relates to computation, like analysis of algorithms, programming languages, program design, software, and computer hardware.\n\n
+What does a Computer Science Engineer do? Design and develop software application for different industries,Manages the software, hardware and networks in any industry,Involves in the design and development of the hardware components of PCs and laptops,Develop software for peripheral computing devices such as printers, modems and scanners,Writes code and algorithms for operating systems like Windows, Linux etc.">
+
+    </TextView>
+</android.support.constraint.ConstraintLayout>

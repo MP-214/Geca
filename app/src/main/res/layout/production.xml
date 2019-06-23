@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/prod"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Production engineering\n\n\n
+Manufacturing or Production Engineering is the subset / specialization of a Mechanical Engineering. Mechanical Engineering with the focus only on Machine Tools, Materials Science, Tribology, and Quality Control is known as Manufacturing Engineering. Professional manufacturing engineers are responsible for all aspect of the design, development, implementation, operation and management of manufacturing system.\n\n
+Production Engineers work towards Choosing machinery and equipments for the particular manufacturing process.Production Engineers will be planning and scheduling the production in any manufacturing industry. [e.g. Automobile Manufacturing industry].Production Engineers will be programming the CNC machines to produce engineering components such as gears, screws, bolts, etc.They are responsible for quality control, distribution and inventory control.">
+
+    </TextView>
+</android.support.constraint.ConstraintLayout>

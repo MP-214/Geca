@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/it"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Information Technology\n\n\n
+Information Technology is an engineering division, which concentrates on the study of utilizing computers and telecommunications in order to control, gather, store and circulate information. Both software and hardware sectors are parts of Information Technology.\n\n
+Information Technology plays a vital role in our modern day lifestyles. It has touched each and every aspect of human life. With the emergence of computers, we are witnessing a sea change in the business world. Starting from multi-national corporations to small businesses, IT plays a stupendous role. In the field of Communication, Inventory Management, Data Management, Management Information Systems and Customer Relationship Management, IT plays a pivotal role. IT has also opened up various concepts like online shopping, digital marketing, social networking, digital communication, cloud computing, Mobile, and big data for solving many social and business problems. In addition, for making long-term business successful, IT has developed many tools and software applications.">
+
+    </TextView>
+</android.support.constraint.ConstraintLayout>

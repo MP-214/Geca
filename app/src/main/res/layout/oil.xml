@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/oil"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Oil and Paint Technology\n\n\n
+Oil and paint technology is a sub branch of Chemical Technology. It is a very niche branch of engineering under the Chemical Engineering discipline and hence the course is seen to be offered by few institutes in India. Oil and paint Technology is the discipline in which one studies about the various ingredients, polymers, pigments etc.-that are used in making oil and paint.\n\n
+Different substrate and surfaces, depending on their unique physical and chemical properties, require different kinds of paint or coating formulations to be applied on them. One studies about the different aspects of paint technology application in this discipline. The course deals with the types of oils and paints, the manufacturing and various processes by which they are utilized in the industry. Some of the main areas of Oil and Paint Technology include oil and paint media, paint application etc. ">
+
+    </TextView>
+</android.support.constraint.ConstraintLayout>

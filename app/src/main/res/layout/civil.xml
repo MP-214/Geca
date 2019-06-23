@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/civil"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Civil engineering\n\n\n
+There would have been no historic wonders like Taj Mahal, Coliseum of Rome and the Great Wall of China or modern masterpieces like the London Bridge and Howrah Bridge if there were no civil engineers. The engineering course deals with planning, designing, constructing, maintaining, and operating infrastructures while protecting the public and environmental health as well as improving existing infrastructure. The course also teaches the development of better infrastructural facilities to sustain an eco-friendly environment. Civil engineering course is offered both at the undergraduate and postgraduate levels.\n
+Civil engineers conceive, design, build, supervise, operate, construct and maintain infrastructure projects and systems in the public and private sector, including roads, buildings, airports, tunnels, dams, bridges, and systems for water supply and sewage treatment. Many civil engineers work in planning, design, construction, research, and education.">
+
+    </TextView>
+</android.support.constraint.ConstraintLayout>

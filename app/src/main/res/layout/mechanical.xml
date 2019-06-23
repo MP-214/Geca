@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/mech"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Mechanical engineering\n\n\n
+Mechanical engineering is a discipline of engineering that applies the principles of physics and materials science for analysis, design, manufacturing, and maintenance of mechanical systems. It is the branch of engineering that involves the production and usage of heat and mechanical power for the design, production, and operation of machines and tools. It is one of the oldest and broadest engineering disciplines.\n\n
+Mechanical engineering combines creativity, knowledge and analytical tools to complete the difficult task of shaping an idea into reality.Disciplines within mechanical engineering include but are not limited to: Acoustics,Aerospace,Automation,Automotive,Autonomous Systems,Biotechnology,Computer Aided Design (CAD),Control Systems,Cyber security,Design,Energy,Ergonomics,Human health,Manufacturing and additive manufacturing,Mechanics,Nanotechnology,Production planning,Robotics,Structural analysis">
+
+    </TextView>
+</android.support.constraint.ConstraintLayout>

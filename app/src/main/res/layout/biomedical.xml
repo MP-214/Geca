@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/auto"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="BioMedical And Instrumentation engineering\n\n\n
+BioMedical And Instrumentation engineering is the special branch of engineering which deals with application of the engineering principles and design concepts to medicine and biology. The discipline aims to build a bridge between engineering and medicine and contribute in healthcare treatment including diagnosis, monitoring ,treatment and therapy.\n\n
+BioMedical And Instrumentation engineering is an interdisciplinary subject that plays an important role in product developement and their commercial applications and maintainance in healthcare sector. It includes developemnet of biocompatible prostheses, various diagnostic and therapeutic medical devices ranging from clinical equipment to micro-implants, imaging equipments such as MRIs and ECGs and EFGs, regenerative tissue growth, pharmaceutical drugs and therapeutic biologicals.">
+
+    </TextView>
+</android.support.constraint.ConstraintLayout>

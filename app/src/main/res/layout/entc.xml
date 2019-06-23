@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/entc"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Electronics and Telecommunication engineering\n\n\n
+Electronics Engineering is one of the largest and most sophisticated branches of engineering. It has made us available the equipments like Television, Radio, computers, telephones etc. Electronics has a major role in improving productivity in industries like oil, energy, agriculture and so many other important sectors of economy.\n\n
+An electronics engineer works in groups to design, fabricate, produce, test and supervise the manufacturing of complex products and systems i.e. electronic equipment and components.He works for a number of industries including hospitals, computer industries, electronic data processing systems for communication and in defense etc. They work with microprocessors, fiber optics, telecommunication, television, radios etc. Electronics engineering is a rapidly growing sector where there is excellent job opportunity for the skilled professionals."></TextView>
+</android.support.constraint.ConstraintLayout>

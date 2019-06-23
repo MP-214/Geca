@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/elec"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Electrical engineering\n\n\n
+Electrical engineering, one of the core courses of engineering discipline deals with the study of design, development, and maintenance of electrical systems and their components, ensuring quality, safety, reliability, and sustainability. The course focuses on the manufacturing of electrical equipment used in a number of sectors including construction and building and the production and distribution of power. Students pursuing electrical engineering study about semiconductors and microprocessors.\n\n
+Electrical engineers design, develop, test and supervise the manufacturing of electrical equipment, such as electric motors, radar and navigation systems, communications systems and power generation equipment, states the U.S. Bureau of Labor Statistics.Electronics engineers design and develop electronic equipment, such as broadcast and communications systems — from portable music players to global positioning systems (GPS).">
+
+    </TextView>
+</android.support.constraint.ConstraintLayout>

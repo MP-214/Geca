@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/poly"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Polymer Technology/Engineering\n\n\n
+Polymer Engineering is based on the theory and knowledge of chemical engineering in solving various problems involving the production and use of polymers. Principles of plant design, process design, thermodynamics, and transport phenomena are used to develop new products.\n\n
+Polymer engineers supervise the production process of plastics and other polymers and this supervision involves plastic moulders and technicians to carry out the shop floor manufacturing processes.">
+
+    </TextView>
+</android.support.constraint.ConstraintLayout>

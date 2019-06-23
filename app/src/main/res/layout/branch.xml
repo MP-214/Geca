@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Aeronautical Engineering"
+                tools:layout_editor_absoluteY="5dp" />
+
+            <TextView
+                android:id="@+id/tv1"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Agricultural Engineering"
+                tools:layout_editor_absoluteY="40dp" />
+
+            <TextView
+                android:id="@+id/tv2"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Automobile Engineering"
+                tools:layout_editor_absoluteY="77dp" />
+
+            <TextView
+                android:id="@+id/tv3"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Biomedical and Instrumentation Engineering"
+                tools:layout_editor_absoluteY="115dp" />
+
+            <TextView
+                android:id="@+id/tv4"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Chemical Engineering"
+                tools:layout_editor_absoluteY="150dp" />
+
+            <TextView
+                android:id="@+id/tv5"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Civil Engineering"
+                tools:layout_editor_absoluteY="185dp" />
+
+            <TextView
+                android:id="@+id/tv6"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Computer science and Engineering"
+                tools:layout_editor_absoluteY="220dp" />
+
+            <TextView
+                android:id="@+id/tv7"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Electrical Engineering"
+                tools:layout_editor_absoluteY="255dp" />
+
+            <TextView
+                android:id="@+id/tv8"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Electronics and Telecommunication Engineering"
+                tools:layout_editor_absoluteY="290dp" />
+
+            <TextView
+                android:id="@+id/tv9"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Fibre and Textile Engineering"
+                tools:layout_editor_absoluteY="325dp" />
+
+            <TextView
+                android:id="@+id/tv10"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Food Engineering and Technology"
+                tools:layout_editor_absoluteY="360dp" />
+
+            <TextView
+                android:id="@+id/tv11"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Information Technology"
+                tools:layout_editor_absoluteY="395dp" />
+
+            <TextView
+                android:id="@+id/tv12"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Instrumentation Engineering"
+                tools:layout_editor_absoluteY="430dp" />
+
+            <TextView
+                android:id="@+id/tv13"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Mechanical Engineering"
+                tools:layout_editor_absoluteY="465dp" />
+
+            <TextView
+                android:id="@+id/tv14"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Oil and Paint Technology"
+                tools:layout_editor_absoluteY="465dp" />
+
+            <TextView
+                android:id="@+id/tv15"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Plastic Engineering"
+                tools:layout_editor_absoluteY="465dp" />
+
+            <TextView
+                android:id="@+id/tv16"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Polymer Engineering"
+                tools:layout_editor_absoluteY="465dp" />
+
+            <TextView
+                android:id="@+id/tv17"
+                android:layout_width="384dp"
+                android:layout_height="35dp"
+                android:text="Production Engineering"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="516dp" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

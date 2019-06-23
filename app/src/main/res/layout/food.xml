@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/food"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Food engineering and Technology\n\n\n
+B. Tech. Food Technology or Bachelor of Technology in Food Technology is an undergraduate course which deals in food engineering and food sciences. It provides in depth knowledge of the fields like food processing, food packaging, nutrition, storage etc. Any person who pursues this course gets the edge of being known as food scientist or food technocrat.\n\n
+Objectives of B.Tech Food Engineering is to combat with the problems relating to food from an engineering perspective. Food Engineer provides effective utilization of food resources, minimize damage to the inherent nutritional value of food. Food Engineering provides research and development engineers which integrates basic knowledge with an application so as to utilize the system of science and technology more efficiently.\n\n
+B.Tech. Food Engineering Students creates food which is safe and flavorsome with good physical texture. Food Engineering covers the topics of food microbiology, Food Processing, Food Biochemistry, Dairy plant engineering, Computer skills, Food industry waste management, Food fermentation technology, Food plant safety and hazard analysis, Food packaging technology, Bakery and confectionary technology."></TextView>
+</android.support.constraint.ConstraintLayout>

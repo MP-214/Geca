@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/agri"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Agricultural engineering\n\n\n
+Agricultural Engineering relates to the science and technology of producing food grains. It applies principles of engineering science and technology to production and processing in the field of agriculture. Here the knowledge of agriculture principles gets combined with the disciplines of animal biology, plant biology and also principles of Mechanical, Civil, Electrical and Chemical Engineering. BE/B.Tech in Agricultural Engineering is a 4-year programme.\n\n.In this programme, the students basically study design of agricultural machinery and equipment; agricultural structures, agricultural resource management, surveying and land profiling. Subjects like climatology and atmospheric science; soil management and conservation including erosion and erosion control, seeding, tillage etc., are part of Agricultural Engineering. Harvesting and processing of crops, livestock production, and waste management are some of the areas of study in this programme. You can pursue M.Tech in Agricultural Engineering after successful completion of BE/B.Tech."></TextView>
+</android.support.constraint.ConstraintLayout>
