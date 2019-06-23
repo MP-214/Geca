@@ -1,1 +1,1 @@
-# Geca
+# CollegePredictor Application
